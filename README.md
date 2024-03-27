@@ -1,8 +1,11 @@
-# React + Vite
+# ToDo App i React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Mål
 
-Currently, two official plugins are available:
+1. **Lägg till Uppgifter:** Implementera funktionalitet för att lägga till uppgifter i listan.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. **Använd Webbläsarens Datumfunktionalitet:** Utveckla en funktion för att använda webbläsarens datumfunktion för varje uppgift för att hålla koll på när uppgiften skapades eller senast uppdaterades.
+
+3. **Redigera Uppgifter:** Skapa funktionalitet för att redigera befintliga uppgifter i listan.
+
+4. **Ta Bort och Markera som Färdig:** Implementera möjligheten att ta bort uppgifter från listan och markera dem som färdiga när de är avklarade.
