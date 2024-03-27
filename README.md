@@ -2,9 +2,9 @@
 
 ## Mål
 
-1. **Lägg till Uppgifter:** Implementera funktionalitet för att lägga till uppgifter i listan.
+1. **Lägga till Uppgifter:** Implementera funktionalitet för att lägga till uppgifter i listan.
 
-2. **Använd Webbläsarens Datumfunktionalitet:** Utveckla en funktion för att använda webbläsarens datumfunktion för varje uppgift för att hålla koll på när uppgiften skapades eller senast uppdaterades.
+2. **Använda Webbläsarens Inbyggda Kalenderfunktionalitet:** Utveckla en funktion som möjliggör användning av webbläsarens inbyggda kalenderfunktion för varje uppgift, så att användaren kan välja datum genom att klicka på en kalenderikon.
 
 3. **Redigera Uppgifter:** Skapa funktionalitet för att redigera befintliga uppgifter i listan.
 
